@@ -1,4 +1,0 @@
---device DARMP "startup.o" "t0_q_4.o" --strict --scatter "T0_ques_3.sct" 
---autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
---info sizes --info totals --info unused --info veneers 
- --list ".\T0_ques_3.map" -o "T0_ques_3.axf"

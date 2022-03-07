@@ -1,4 +1,0 @@
-Dependencies for Project 'task2', Target 'Target 1': (DO NOT MODIFY !)
-F (.\Startup.s)(0x4A02A570)(--device DARMP --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o")
-F (.\task2_ques8.c)(0x5FBDF5C4)(-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "task2_ques8.o" --omf_browse "task2_ques8.crf" --depend "task2_ques8.d")
-I (C:\Keil\ARM\INC\Philips\LPC21XX.h)(0x4A02A636)

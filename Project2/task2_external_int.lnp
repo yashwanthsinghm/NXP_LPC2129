@@ -1,4 +1,0 @@
---device DARMP "startup.o" "task2_ques8.o" --strict --scatter "task2_external_int.sct" 
---autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
---info sizes --info totals --info unused --info veneers 
- --list ".\task2_external_int.map" -o "task2_external_int.axf"

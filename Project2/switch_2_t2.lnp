@@ -1,4 +1,0 @@
---device DARMP "startup.o" "switch_2_real.o" --strict --scatter "switch_2_t2.sct" 
---autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
---info sizes --info totals --info unused --info veneers 
- --list ".\switch_2_t2.map" -o "switch_2_t2.axf"

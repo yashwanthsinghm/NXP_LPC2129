@@ -1,4 +1,0 @@
---device DARMP "startup.o" "t0_delay.o" --strict --scatter "TIMER1.sct" 
---autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
---info sizes --info totals --info unused --info veneers 
- --list ".\TIMER1.map" -o "TIMER1.axf"

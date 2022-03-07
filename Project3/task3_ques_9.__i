@@ -1,1 +1,0 @@
--c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "task3_ques_9.o" --omf_browse "task3_ques_9.crf" --depend "task3_ques_9.d" "task3_ques_9.c"
