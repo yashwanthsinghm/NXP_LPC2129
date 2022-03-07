@@ -1,0 +1,4 @@
+--device DARMP "startup.o" "task3_code2.o" --strict --scatter "task3.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\task3.map" -o "task3.axf"

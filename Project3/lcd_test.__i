@@ -1,0 +1,1 @@
+-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "lcd_test.o" --omf_browse "lcd_test.crf" --depend "lcd_test.d" "lcd_test.c"

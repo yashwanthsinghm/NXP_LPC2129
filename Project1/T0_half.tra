@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'T0_half.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"t0_ring.o"'
+### ADS-LD Command completed:
+--device DARMP "startup.o" "t0_ring.o" --strict --scatter "T0_half.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\T0_half.map" -o "T0_half.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'T0_half.axf'
+### ADS-LD Command File: 'T0_half.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'T0_half.lnp', Handle=0x000003EC
+### Writing '.lnp' file
+### ADS-LD Command file 'T0_half.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

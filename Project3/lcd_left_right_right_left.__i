@@ -1,0 +1,1 @@
+-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "lcd_left_right_right_left.o" --omf_browse "lcd_left_right_right_left.crf" --depend "lcd_left_right_right_left.d" "lcd_left_right_right_left.c"

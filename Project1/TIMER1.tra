@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'TIMER1.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"t0_delay.o"'
+### ADS-LD Command completed:
+--device DARMP "startup.o" "t0_delay.o" --strict --scatter "TIMER1.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\TIMER1.map" -o "TIMER1.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'TIMER1.axf'
+### ADS-LD Command File: 'TIMER1.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'TIMER1.lnp', Handle=0x00000208
+### Writing '.lnp' file
+### ADS-LD Command file 'TIMER1.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
