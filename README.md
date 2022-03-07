@@ -26,4 +26,4 @@ Note : To understand the code attached schematic and datasheet shall be referred
 
 ## License & copyright
  Yashwanth singh M ,Engineer
-Licensed under the [Apache License] (LICENSE)
+Licensed under the [Apache License](LICENSE).
