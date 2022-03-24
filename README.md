@@ -22,7 +22,7 @@ Also few external peripherals like :
 #### LCD
 
 
-Note : To understand the code attached schematic and datasheet shall be referred.
+Note : To understand the code, attached schematic and datasheet shall be referred.
 
 ## License & copyright
  Yashwanth singh M ,Engineer
